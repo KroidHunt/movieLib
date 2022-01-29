@@ -1,0 +1,2 @@
+# movieLib
+Django based backend
